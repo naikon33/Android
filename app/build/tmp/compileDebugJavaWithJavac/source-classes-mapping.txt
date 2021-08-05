@@ -1,0 +1,5 @@
+com/example/timer/BuildConfig.java
+ com.example.timer.BuildConfig
+com/example/timer/MainActivity.java
+ com.example.timer.MainActivity
+ com.example.timer.MainActivity$1
